@@ -97,4 +97,7 @@ Run the following command to start the program: bash
 python main.py --data test.csv --output prediction.csv --true_labels new_data.csv
 
 Option 2: Check Results in Jupyter Notebook
-If you prefer not to run or set up the environment, you can simply check the results by opening the Stacking_model_2.ipynb Jupyter notebook
+If you prefer not to run or set up the environment, you can simply check the results by opening the Stacking_model_2.ipynb Jupyter notebook.
+
+Option 3: Watch the provided tutorial video
+If you don't want to run it or you are confused how to run it, you can play the tutorial video.
